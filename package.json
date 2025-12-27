@@ -324,7 +324,7 @@
     "@graphql-tools/load": "^8.0.0",
     "@jest/globals": "29.7.0",
     "@octokit/rest": "^20.0.2",
-    "@playwright/test": "1.41.0",
+    "@playwright/test": "1.57.0",
     "@types/imurmurhash": "^0.1.4",
     "@types/js-cookie": "^3.0.6",
     "@types/lodash": "^4.14.202",
